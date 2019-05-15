@@ -10,7 +10,9 @@ What have we covered so far?
 ## Learning Objectives 
 * Understand what and why prototypes are useful and how prototypes work
 * Understand the example that implement a prototype chain
-* Be able to use the understanding of prototypes to walkthrough an prototype example 
+* Be able to use the understanding of prototypes to walkthrough and create an prototype example 
+
+
 
 ## Introduction/Background
 
@@ -22,11 +24,10 @@ What have we covered so far?
 ### Prototypes in ACTION! 
 
 
-## Example - 
+## Example 
 
 
-
-
+## Discussion 
 
 
 
