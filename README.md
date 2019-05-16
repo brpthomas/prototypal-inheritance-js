@@ -67,11 +67,12 @@ Prototypes are how objects in JS inherits its methods and properties. This sound
 
 ### Heat Check 2: What are prototypes?
 ![](https://media.giphy.com/media/CrnKx2mxUzGiQ/giphy.gif)
+
 Prototypes are saying for this object, use this other object as a backup. 
 
 ### Prototypes in ACTION! 
-In celebration of the upcoming finale episode of Game of Thrones, lets create some direwolves. 
 ![](https://media.giphy.com/media/8L13IFbMbEwV2/giphy.gif)
+In celebration of the upcoming finale episode of Game of Thrones, lets create some direwolves. 
 
 ## Example 
 ```javascript
@@ -103,6 +104,7 @@ So what's going on:
 
 ## Heat Check - Why are prototypes useful? 
 ![](https://media.giphy.com/media/l41lVCaNfN7zjhFsc/giphy.gif)
+
 In the example, we can see that:
 * Prototypes are much more flexible because it allows the object to inherit from multiple prototypes. 
 * To keep it simple, remember that Prototypes are Objects Linking to Other Objects. 
