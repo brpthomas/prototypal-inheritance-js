@@ -100,6 +100,9 @@ It worked?
 
 When we used Object.create, we set up a link between the prototype object, direwolf, and robbStark which inherits from its prototype. 
 
+Lets go to this link for a more detailed example:
+https://repl.it/@tigerpaws6/Sample-Teach-GA
+
 ## Prototype Chain
 We're taking a deeper dive to look at the javascript compiler and what is going on under the hood! 
 So what's going on:
