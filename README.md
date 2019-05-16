@@ -57,7 +57,7 @@ let jenCar = new Car('Nissan', 'Skyline', '2014');
 console.log(lizCar, donCar, jenCar);
 ``` 
 
-## Heat Check 1
+## Heat Check 1 - What have we done so far?
 ![](https://media.giphy.com/media/3o6Zt1NkjoYfCEv3CU/giphy.gif)
 * We covered how we create objects using object literals which is a straight forward way of creating objects with key value pairs. 
 * Second, we introduced the constructor function, that's right, the function Car is the constructor function that creates the Car object in our example! 
