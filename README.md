@@ -92,7 +92,7 @@ console.log('robbStark: ', robbStark );
 console.log('direwolf: ', direwolf); 
 
 ```
-In the example, robbStark is an empty object but yet the direwolf object was created with name and sayHello methods. Let's take it a step further, let's run `direwolf.sayHello("Grey Wind")`. 
+In the example, robbStark is an empty object but yet the direwolf object was created with name and sayHello methods. Let's take it a step further, let's run `robbStark.name("Grey Wind")`. 
 
 It worked? 
 
