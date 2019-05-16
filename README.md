@@ -32,6 +32,7 @@ Or better known as object literals. Object literals are a simple straight-forwar
 Let's try this a new way, using keyword new. 
 
 ```javascript
+// constructor function
 function Car(make, model, year) {
 	this.make = make; 
 	this.model = model; 
@@ -45,6 +46,7 @@ Yay! We created an object using the constructor function Car in the code snippet
 
 
 ```javascript
+// constructor function
 function Car(make, model, year) {
 	this.make = make; 
 	this.model = model; 
