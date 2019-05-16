@@ -13,7 +13,6 @@ By the end of the lesson, you will be able to do the following:
 * Understand why prototypes are useful
 
 ## Opening
-What is about to happen? How and why? 
 Today, we will be covering prototypal inheritance in Javascript! We have already covered variables, functions, objects, and callbacks in JavaScript which on the surface is super powerful, because it allows us to create complicated programs to develop web apps like most websites we visit everyday! So let's take a look under the hood. 
 
 
@@ -67,10 +66,12 @@ I thought we were learning about prototypal inheritance? Why did we learn about 
 Prototypes are how objects in JS inherits its methods and properties. This sounds a lot like classes. What are classes? In JavaScript, constructors are often referred to as "classes". And just our luck, we covered constructor functions! For now, let's think of classes as blueprint for new objects and prototypes are backup or a delegate object. 
 
 ### Heat Check 2: What are prototypes?
+![](https://media.giphy.com/media/CrnKx2mxUzGiQ/giphy.gif)
 Prototypes are saying for this object, use this other object as a backup. 
 
 ### Prototypes in ACTION! 
 In celebration of the upcoming finale episode of Game of Thrones, lets create some direwolves. 
+![](https://media.giphy.com/media/8L13IFbMbEwV2/giphy.gif)
 
 ## Example 
 ```javascript
@@ -101,6 +102,7 @@ So what's going on:
 * the compiler now moves one level up the prototype chain, the direwolf. There, it sees the sayHello method and calls it.
 
 ## Heat Check - Why are prototypes useful? 
+![](https://media.giphy.com/media/l41lVCaNfN7zjhFsc/giphy.gif)
 In the example, we can see that:
 * Prototypes are much more flexible because it allows the object to inherit from multiple prototypes. 
 * To keep it simple, remember that Prototypes are Objects Linking to Other Objects. 
