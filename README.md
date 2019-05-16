@@ -17,6 +17,7 @@ Today, we will be covering prototypal inheritance in Javascript! We have already
 
 
 ## Constructor Functions! 
+Let's start with something you have already done but may have not known it. 
 By now, you have created an object already, but how did you create it? 
 More than likely, it was like this below: 
 ```javascript
