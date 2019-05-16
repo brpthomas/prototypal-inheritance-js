@@ -1,5 +1,5 @@
 
-# Sample Teach - Prototyopal Inheritance 
+# Sample Teach - Prototypal Inheritance 
 
 ## Recap 
 What have we covered so far? 
