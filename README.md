@@ -82,7 +82,7 @@ const direwolf = {
 	name: function(name) {
 		this.name = name;
 	},
-	sayHello: function() {
+	sayName: function() {
 		console.log('woof woof, my name is: ', this.name)
 	}
 }; 
@@ -92,7 +92,7 @@ console.log('robbStark: ', robbStark );
 console.log('direwolf: ', direwolf); 
 
 ```
-In the example, robbStark is an empty object but yet the direwolf object was created with name and sayHello methods. Let's take it a step further, let's run `robbStark.name("Grey Wind")`. 
+In the example, robbStark is an empty object but yet the direwolf object was created with name and sayName methods. Let's take it a step further, let's run `robbStark.name("Grey Wind")`. 
 
 It worked? 
 
