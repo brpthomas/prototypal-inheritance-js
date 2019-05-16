@@ -106,7 +106,7 @@ https://repl.it/@tigerpaws6/Sample-Teach-GA
 ## Prototype Chain
 We're taking a deeper dive to look at the javascript compiler and what is going on under the hood! 
 So what's going on:
-* the compiler is looking at the robbStark object to see if there is a sayName method attached to it but we know that there isn't a setStatus on the robbStark object.
+* the compiler is looking at the robbStark object to see if there is a sayName method attached to it but we know that there isn't a sayName on the robbStark object.
 * the compiler now moves one level up the prototype chain, the direwolf. There, it sees the sayName method and calls it.
 
 ## Heat Check - Why are prototypes useful? 
