@@ -39,7 +39,7 @@ function Car(make, model, year) {
 	this.year = year; 
 }
 
-let lizCar = new Car('BMW', '525i', '2019'); 
+let lizCar = new Car('Audi', 'A8', '2019'); 
 
 ```
 Yay! We created an object using the constructor function Car in the code snippet. Then we also created an instance of the Car object using keyword new. Why is this so powerful? It is because we can re-use the Car object to create many more cars. Let's try this out! 
