@@ -72,6 +72,7 @@ Prototypes are saying for this object, use this other object as a backup.
 
 ### Prototypes in ACTION! 
 ![](https://media.giphy.com/media/8L13IFbMbEwV2/giphy.gif)
+
 In celebration of the upcoming finale episode of Game of Thrones, lets create some direwolves. 
 
 ## Example 
